@@ -19,7 +19,12 @@ simple to use.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imsawankumar/Sanaya-Bot)
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/sawan1800)
+[![paypal](https://raw.githubusercontent.com/imsawankumar/Heroku-Build-Packs/master/files/paypal.png)](https://paypal.me/sawan1800)
+
+## Donate 
+
+[<img src="https://raw.githubusercontent.com/imsawankumar/Sanaya-Bot/master/files/paypal.png">](https://www.paypal.me/sawan1800)
+[<img src="https://raw.githubusercontent.com/imsawankumar/Sanaya-Bot/master/files/upi.png">](#)
 
 ## Starting the bot.
 
